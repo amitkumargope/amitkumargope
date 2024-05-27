@@ -6,6 +6,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/amit-kumar-Gope) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/scholarlyshutterbug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-gope-%E9%98%BF%E7%B1%B3%E7%89%B9-1b223512b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23106912/amit-kumar-gope) 
 
 
+
+
 ## ✍️📊 Learning Roadmap Stats:
 [![roadmap.sh](https://roadmap.sh/card/wide/65fa30e16b7e513efbb7f45f?variant=dark)](https://roadmap.sh)
 
