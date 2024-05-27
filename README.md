@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amitkumargope&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+##[![roadmap.sh](https://roadmap.sh/card/tall/65fa30e16b7e513efbb7f45f?variant=dark)](https://roadmap.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
